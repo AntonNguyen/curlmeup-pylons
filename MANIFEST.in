@@ -1,0 +1,3 @@
+include curlmeuppylons/config/deployment.ini_tmpl
+recursive-include curlmeuppylons/public *
+recursive-include curlmeuppylons/templates *
